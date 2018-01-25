@@ -15,8 +15,10 @@ public class Test1{
 		for (int i=1; i<=10; i++)
 		{
 			 System.out.println("Hello World ... i ... :"+i);
-			
+			 			
 		
 		}
+		
+		System.out.println("Testing Jenkins - GIT integration");
 	}
 }
